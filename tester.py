@@ -3,5 +3,5 @@ a, b=3, 4
 c = (a**2+b**2)**(1/2)
 print('c =', c)
 r=10
-area = r*r
+area = r**2
 print('area =', area)
